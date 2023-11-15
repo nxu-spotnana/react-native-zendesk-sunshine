@@ -39,8 +39,8 @@ android {
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation 'com.facebook.react:react-native:+'
-    api 'io.smooch:core:9.+'
-    api 'io.smooch:ui:9.+'
+    api 'io.smooch:core:9.2.0'
+    api 'io.smooch:ui:9.2.0'
     implementation "com.google.firebase:firebase-iid:21.1.0"
     implementation "com.google.firebase:firebase-messaging:23.0.4"
     implementation "androidx.appcompat:appcompat:1.3.1"
