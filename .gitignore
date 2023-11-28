@@ -8,3 +8,4 @@ android/gradlew.bat
 android/local.properties
 node_modules
 .idea
+ios/.DS_Store
